@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Eclipse</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 14 Feb 2026 22:08:20 -0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JTostitos/Eclipse-updates/releases/download/v1.0_build-6_beta/Eclipse_v1.0_build-6_beta.zip" length="5770834" type="application/octet-stream" sparkle:edSignature="rtwfcW59HiCY8WUjesLm5vGqfvjOG0EbEy7auJ2TfBYuUB9eReVp9wwcYnj+LyQDq5GAFoUFHFwVP2QT3KkMCQ=="/>
+        </item>
+    </channel>
+</rss>
