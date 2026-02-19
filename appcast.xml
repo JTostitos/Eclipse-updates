@@ -4,11 +4,11 @@
         <title>Eclipse</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 19 Feb 2026 13:45:18 -0500</pubDate>
+            <pubDate>Thu, 19 Feb 2026 14:55:27 -0500</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JTostitos/Eclipse-updates/releases/download/v1.0_build-8_beta/Eclipse.zip" length="6063512" type="application/octet-stream" sparkle:edSignature="kVyweo5ie4uoh//Fcd8kHdRNDh0r1hYEtCGeTNzqbhKDUg667pU906M/PHF46YQrgaekZ+IWxinVmvZ6GIs7Dw=="/>
+            <enclosure url="https://github.com/JTostitos/Eclipse-updates/releases/download/v1.0_build-8_beta/Eclipse.zip" length="6063512" type="application/octet-stream" sparkle:edSignature="nCH0LAbMTFWaqRd+dZuECJi8ZuQDGQR6d02yaka22u9++kD+os5gVmOQ5aJffh7EtpQ3OxMPBl05YMHnE5SWCg=="/>
         </item>
     </channel>
 </rss>
