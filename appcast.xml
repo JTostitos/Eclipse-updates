@@ -3,12 +3,12 @@
     <channel>
         <title>Eclipse</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Thu, 19 Feb 2026 14:55:27 -0500</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/JTostitos/Eclipse-updates/releases/download/v1.0_build-8_beta/Eclipse.zip" length="6063512" type="application/octet-stream" sparkle:edSignature="nCH0LAbMTFWaqRd+dZuECJi8ZuQDGQR6d02yaka22u9++kD+os5gVmOQ5aJffh7EtpQ3OxMPBl05YMHnE5SWCg=="/>
+            <title>26.7.0</title>
+            <pubDate>Sun, 26 Jul 2026 16:38:06 -0400</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>26.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/JTostitos/Eclipse-updates/releases/download/Eclipse.zip/Eclipse.zip" length="11193757" type="application/octet-stream" sparkle:edSignature="OHO23nsQMji9N/MLq2JvJqdFUdNSYeQkUMtgIgrsDKPGuo4qrIFedKuYkJnnS7CAXzhVJFjxj8fe0SJ4+FGsDw=="/>
         </item>
     </channel>
 </rss>
